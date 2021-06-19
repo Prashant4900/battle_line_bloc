@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449423792013",
+    "project_id": "battle-line-18a2c",
+    "storage_bucket": "battle-line-18a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449423792013:android:64e0b03d82fb5ac78d0fc4",
+        "android_client_info": {
+          "package_name": "com.example.battle_line"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449423792013-9ljhoavcr4lsqc2pkrv7n0spkr5vj455.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.battle_line",
+            "certificate_hash": "64b25e4ca2bd365cff63da4a59ade14691535012"
+          }
+        },
+        {
+          "client_id": "449423792013-srdj2f1v3jdkl9hp1vr3av3nto1lv8m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5xXtD_zDgrsLXKGbkwVRlFgUciA0sg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449423792013-srdj2f1v3jdkl9hp1vr3av3nto1lv8m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
